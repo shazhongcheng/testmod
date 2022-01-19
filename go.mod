@@ -1,3 +1,3 @@
-module testmod/testmod
+module testmod
 
 go 1.17
